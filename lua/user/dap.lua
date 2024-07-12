@@ -74,7 +74,7 @@ function M.config()
         type = 'server',
         port = "${port}",
         executable = {
-            command = '/home/alek/.local/share/nvim/mason/packages/codelldb/codelldb',
+            command = 'C:\\Users\\pcziv\\AppData\\Local\\nvim-data\\mason\\packages\\codelldb\\codelldb',
             args = {"--port", "${port}"},
         }
     }

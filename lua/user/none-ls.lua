@@ -14,7 +14,7 @@ function M.config()
   null_ls.setup {
     debug = false,
     sources = {
-      null_ls.builtins.formatting.clangs_format,
+      -- null_ls.builtins.formatting.clangs_format,
       formatting.stylua,
       formatting.prettier,
       formatting.black,

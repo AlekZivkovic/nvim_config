@@ -5,6 +5,7 @@ local M = {
   "rcarriga/nvim-dap-ui",
   "theHamsta/nvim-dap-virtual-text",
   "williamboman/mason.nvim",
+  "nvim-neotest/nvim-nio",
   },
 }
 
